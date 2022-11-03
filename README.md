@@ -1,2 +1,2 @@
-# intro
-A repo to match my bio
+# How to Run
+A repo to complement my bio 🤔
